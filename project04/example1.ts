@@ -1,0 +1,1 @@
+const numberOfStudents :number[] = [100,100,25,15,14,28,500,500]
